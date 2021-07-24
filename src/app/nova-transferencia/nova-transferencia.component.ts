@@ -8,4 +8,7 @@ import { Component } from "@angular/core";
 
 export class NovaTransferenciaComponent {
 
+    tranferir(){
+      console.log("Serviço solicitado");
+    }
 }
